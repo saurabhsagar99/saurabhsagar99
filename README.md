@@ -42,7 +42,7 @@
 <br/>
 
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/832578414380711988?theme=dark&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=GO%20BEYOND%20LIMITS!!!)](https://discord.com/users/832578414380711988)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/832578414380711988?theme=dark&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=GO%20BEYOND%20LIMITS!!!)](https://discord.com/users/832578414380711988)
  
 
 <!--   GitHub stats graph --> 
