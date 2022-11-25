@@ -2,7 +2,7 @@
 <p align="right">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=saursagar" alt="visitors"/> </p>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=600&size=100&duration=3500&pause=1200&center=true&vCenter=true&width=650&height=100&lines=Hey%2C+I'm+Aditya+" alt="Typing SVG" /></a> </p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=600&size=100&duration=3500&pause=1200&center=true&vCenter=true&width=650&height=100&lines=Hey%2C+Its+Saurabh+" alt="Typing SVG" /></a> </p>
 
 <br/>
 <br/>
