@@ -40,7 +40,6 @@
 <h2 align="center"> Let's chat </h2>
 
 <br/>
-
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/832578414380711988?theme=dark&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=GO%20BEYOND%20LIMITS!!!)](https://discord.com/users/832578414380711988)
  
 
