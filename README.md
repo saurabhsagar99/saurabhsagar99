@@ -47,8 +47,9 @@
 
 <!--   GitHub stats graph --> 
 ## 📈 GitHub Activity Graph:
-  [![Saurabh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=saursagar&theme=react-dark)](https://github.com/saursagar/github-readme-activity-graph)
-   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=saursagar&show_icons=true&theme=tokyonight"
+ ![Saurabh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=saursagar&hide_border=true&theme=redical)
+<p align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=saursagar&show_icons=true&theme=tokyonight"
 </p>
 <a href="https://github.com/saursagar/github-readme-stats"><img alt="Saurabh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saursagar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
