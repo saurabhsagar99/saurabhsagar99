@@ -47,6 +47,8 @@
 
 <!--   GitHub stats graph --> 
 ## 📈 GitHub Activity Graph:
+(https://github-readme-activity-graph.cyclic.app/graph?username=saursagar&theme=react-dark)](https://github.com/saursagar/github-readme-activity-graph)
+
  ![Saurabh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=saursagar&hide_border=true&theme=redical)
 <p align="center">
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=saursagar&show_icons=true&theme=tokyonight"
