@@ -2,7 +2,7 @@
 <p align="right">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=saursagar" alt="visitors"/> </p>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=600&size=100&duration=3500&pause=1200&center=true&vCenter=true&width=650&height=100&lines=Hey%2C+Its+Bruce+" alt="Typing SVG" /></a> </p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=600&size=100&duration=3500&pause=1200&center=true&vCenter=true&width=650&height=100&lines=Hey%2C+Its+Saurabh+" alt="Typing SVG" /></a> </p>
 
 <br/>
 <br/>
@@ -13,9 +13,9 @@
 <div>
   <ul>
     <li>🔭 <em> I’m pursuing my bachelor in computer sciences. </em> </li>
-    <li>😎 <em> Skills- <b> Python,Html,Css,Js. </b> </em> </li>
+    <li>😎 <em> Skills- <b> Python,Html,Css,Js,Java,C++,C,React JS </b> </em> </li>
     <li>🌱 <em> I’m currently learning <b> Python  </b> and <b> Css </b> . </em> </li>
-    <li>🥅 <em> <b> 2022 Goals </b>: Contribute more to Open Source projects. </em> </li>
+    <li>🥅 <em> <b> 2024 Goals </b>: Contribute more to Open Source projects. </em> </li>
     <li>💬 <em> Ask me anything about <b> Superheroes </b>  <b> Math </b> Tech and Open Source. </em> </li>
     <li>⚡ <em> Fun fact: <b>People call me "Bruce Wayne" </b> 😮‍💨 </em> </li>
 </ul> 
@@ -32,8 +32,8 @@
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://kubernetes.io/" target="_blank"> <img src="https://github.com/shivamtomar10/shivamtomar10/blob/main/k8s.png" alt="Kubernetes" width="70" height="50"/> </a> 
-<a href="https://www.docker.com/" target="_blank"> <img src="https://github.com/shivamtomar10/shivamtomar10/blob/main/docker.png" alt="Docker" width="70" height="50"/> </a> 
+
+ 
 </p>
 <br/>
 
